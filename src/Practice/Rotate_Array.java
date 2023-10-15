@@ -19,8 +19,11 @@ public class Rotate_Array {
 		rotateRightthree(arr2,m,d);
 		
 		System.out.println(Arrays.toString(array));
+		System.out.println("--------------------------");
 		System.out.println(Arrays.toString(arr1));
+		System.out.println("--------------------------");
 		System.out.println(Arrays.toString(arr2));
+		System.out.println("--------------------------");
 }
 	static int[] rotatethree(int [] array, int n, int d){
 		

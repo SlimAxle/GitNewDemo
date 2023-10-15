@@ -37,6 +37,9 @@ public class OccurencesString {
 			}
 			
 			  System.out.println( "---------------------------------------------");
+			  System.out.println(" https://github.com/SlimAxle/GitNewDemo.git");
+			  System.out.println("GitDemo Test");
+			  
 			 for (Map.Entry<Character,Integer> e : map1.entrySet()) {
 	             System.out.println("the repeating character is="+e.getKey()) ;
 	             System.out.println( "the repeating occcurrrence  is="+ e.getValue());
